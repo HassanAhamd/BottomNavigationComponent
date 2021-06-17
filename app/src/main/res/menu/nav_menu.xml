@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/firstFragment"/>
+
+
+    <item android:title="Profile"
+        android:icon="@drawable/ic_baseline_person_pin_24"
+
+        android:id="@+id/secondFragment"/>
+
+
+    <item android:title="Camra"
+        android:icon="@drawable/ic_baseline_camera_alt_24"
+        android:id="@+id/thirdFragment"/>
+</menu>
